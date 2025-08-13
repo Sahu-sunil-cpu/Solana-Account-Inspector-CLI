@@ -1,6 +1,6 @@
-##Solana Account Inspector CLI
+Solana Account Inspector CLI
 ---
-#Features
+Features
 ---
 ```
 inspect <Cluster> <Publickey> 
