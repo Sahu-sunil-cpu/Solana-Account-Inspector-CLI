@@ -11,5 +11,4 @@ inspect <Cluster> <Publickey>
 4. output on cmd is easily readable
 5. unit tests for edge cases and each feature
 6. showing relevant errors to the end user
-7. errors can be wrong public key, any other argument instead of available cluster and fetching error
-8. supporing the help argument
+7. supporting the help argument
